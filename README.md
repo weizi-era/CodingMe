@@ -1,1 +1,1 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weizi-era&repo=(https://github.com/weizi-era/))](https://github.com/weizi-era/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weizi-era&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
